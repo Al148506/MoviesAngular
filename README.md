@@ -1,7 +1,7 @@
 # 🎬 MoviesAngular - Frontend for Cinema Management System
 
 > Angular-based frontend for a full-stack cinema platform.  
-> **Live URL**: [https://portfolioacg.com](https://portfolioacg.com)  
+> **Live URL**: [https://portfolioacg.ddnsfree.com](https://portfolioacg.ddnsfree.com)  
 > **Frontend Repo**: [https://github.com/Al148506/MoviesAngular](https://github.com/Al148506/MoviesAngular)  
 > **Backend Repo**: [https://github.com/Al148506/MoviesAPI](https://github.com/Al148506/MoviesAPI)
 
